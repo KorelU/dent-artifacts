@@ -10,6 +10,6 @@ frr 6.0.3
 
 ### Dent GNS3 Appliance
 
-All necessary files for setting up the DENT GNS3 Appliance, including the disk image, XML configuration, and related artifacts can be found here: [DENT GNS3 Appliance](https://1drv.ms/f/c/b4d5fd54a1a7d444/EkTUp6FU_dUggLQdrwAAAAABU-4TzozwwGtsV7u5ib1Q0A?e=mEEETi)
+All necessary files for setting up the DENT GNS3 Appliance, including the disk image, XML configuration, and related artifacts can be found here: [DENT GNS3 Appliance](https://repos.refinery.dev/service/rest/repository/browse/dent/releases/org/dent/3.2/)
 
 For information on how to set up the DENT GNS3 Appliance in GNS3 please view the [DENT DOCS](https://docs.dent.dev/Installation.html)
